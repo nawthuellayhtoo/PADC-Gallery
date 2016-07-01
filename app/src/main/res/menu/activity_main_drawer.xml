@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_linkedin"
+            android:icon="@drawable/ic_move_to_inbox_black_24dp"
+            android:title="@string/linkedin"/>
+        <item
+            android:id="@+id/nav_job_search"
+            android:icon="@drawable/ic_send_black_24dp"
+            android:title="@string/job_search"/>
+        <item
+            android:id="@+id/nav_pulse"
+            android:icon="@drawable/ic_delete_black_24dp"
+            android:title="@string/pulse"/>
+        <item
+        android:id="@+id/nav_yout_shin"
+        android:icon="@drawable/ic_report_black_24dp"
+        android:title="@string/yout_shin"/>
+        <item
+            android:id="@+id/nav_wun_zin"
+            android:icon="@drawable/ic_local_library_black_24dp"
+            android:title="@string/wun_zin"/>
+    </group>
+
+</menu>

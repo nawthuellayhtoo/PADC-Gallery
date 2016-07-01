@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="@dimen/margin_medium_3"
+                android:paddingRight="@dimen/margin_medium_3"
+                android:paddingTop="@dimen/margin_medium_3">
+    <ImageView
+        android:id="@+id/iv_job_photo"
+        android:src="@drawable/job1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"/>
+
+    <LinearLayout
+        android:layout_alignLeft="@id/iv_job_photo"
+        android:layout_marginLeft="80dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_jobsearch_post"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jobsearch_post1"/>
+        <TextView
+            android:id="@+id/tv_jobsearch_company"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jobsearch_company1"/>
+        <TextView
+            android:id="@+id/tv_jobsearch_country"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jobsearch_country"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_jobsearch_new"
+        android:layout_alignParentRight="true"
+        android:text="New"
+        android:textSize="12sp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/job_new_btn"
+        android:layout_marginTop="32dp"
+        android:layout_width="50dp"
+        android:layout_height="20dp"/>
+</RelativeLayout>

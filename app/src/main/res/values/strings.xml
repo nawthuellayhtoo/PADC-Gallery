@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">PADC-Gallery</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="linkedin">PADC - LinkedIn</string>
+    <string name="job_search">PADC - Job Search</string>
+    <string name="pulse">PADC - Pulse</string>
+    <string name="yout_shin">PADC - ရုပ္ရွင္</string>
+    <string name="wun_zin">PADC - ၀န္ဇင္း</string>
+
+    <string-array name="accounts">
+        <item>ngenge626@gmail.com</item>
+        <item>nawthuellay@gmail.com</item>
+    </string-array>
+    
+    <string name="wun_zin_title">ေပ်ာ္ရြင္ဖြယ္ရာ  ေန႕သစ္မ်ား</string>
+    <string name="wun_zin_author">နီကိုရဲ</string>
+    <string name="wun_zin_prize">700 kyats</string>
+    <string name="wun_zin_buy">Buy</string>
+    <string name="wun_zin_sample">Sample</string>
+    <string name="wun_zin_file_size">File size: 25MB</string>
+    <string name="wun_zin_summary">Summary</string>
+    <string name="wun_zin_dot">...</string>
+    <string name="wun_zin_related">Related books</string>
+    <string name="wun_zin_kinds">ဟာသ စာအုပ္ အမ်ိဴးအစားမ်ား</string>
+
+    <string name="youtshin_title">WARCRAFT:THE BEGINNING (3D)</string>
+    <string name="youtshin_details">Details</string>
+    <string name="youtshin_story_content">The peaceful realm of Azeroth stands on the brink of war as its civilization faces a fearsome race of invaders: orc warriors fleeing their dying home to colonize another. As a portal opens to connect t...</string>
+    <string name="youtshin_story">Story</string>
+    <string name="youtshin_readmore">READ MORE</string>
+    <string name="youtshin_showing">Now Showing In</string>
+    <string name="youtshin_movie1">Movie Planet</string>
+    <string name="youtshin_place">Pyin Oo Lwin</string>
+    <string name="youtshin_time">10:00 AM, 12:30 PM, 3:30 PM, 6:30 PM</string>
+
+    <string name="jobsearch_post1">Developer / Senior Developer</string>
+    <string name="jobsearch_post2">Client Partner, Mobile Publiser Sales - Japan</string>
+    <string name="jobsearch_company1">Standard Chartered Bank</string>
+    <string name="jobsearch_company2">Facebook</string>
+    <string name="jobsearch_country">Singapore</string>
+
+    <string name="linkin_welcome1">Good morning, ThueLlay</string>
+    <string name="linkin_welcome2">Here are your top stories for the day</string>
+    <string name="linkin_editor_pick">Editor\'s Pick</string>
+    <string name="linkin_story_title1">China Has High-Performing companies-It Just Needs a Lot More of Them</string>
+    <string name="linkin_story_info1">Gordon Orr / 131 shares</string>
+
+    <string name="linkin_name">ThueLlay Htoo</string>
+    <string name="linkin_post">Mobile Solution Developer</string>
+    <string name="linkin_edu">India-Myanmar Center of Enhanced IT Sklls(IMCEITS)</string>
+    <string name="linkin_location">Singapore . 360</string>
+    <string name="linkin_info">End-to-end mobile solution developer based in Myanmar and Singapore, Passionate on...</string>
+    <string name="linkin_view_profile">Who\'s viewed your profile</string>
+    <string name="linkin_view_share">Who\'s viewed your share</string>
+    <string name="linkin_strength">Strengthen your profile</string>
+    <string name="linkin_showcase">Showcase what you know, add suggestion skills to your profile</string>
+</resources>
